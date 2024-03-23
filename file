@@ -1,0 +1,34 @@
+
+kzielon1@CDV-A30904 MINGW64 ~
+$ mkdir Project
+
+$ cd Project
+
+$ git clone https://github.com/Neklak1/Flp_bird_unity.git
+
+kzielon1@CDV-A30904 MINGW64 ~/Project
+$ ls
+
+kzielon1@CDV-A30904 MINGW64 ~/Project
+$ ls -al
+
+kzielon1@CDV-A30904 MINGW64 ~/Project
+$ cd Flp_bird_unity/
+
+kzielon1@CDV-A30904 MINGW64 ~/Project/Flp_bird_unity (main)
+$ touch file
+
+kzielon1@CDV-A30904 MINGW64 ~/Project/Flp_bird_unity (main)
+$ git status
+
+kzielon1@CDV-A30904 MINGW64 ~/Project/Flp_bird_unity (main)
+$ git add file
+
+kzielon1@CDV-A30904 MINGW64 ~/Project/Flp_bird_unity (main)
+$ git commit -m "Added file"
+
+kzielon1@CDV-A30904 MINGW64 ~/Project/Flp_bird_unity (main)
+$ git status
+
+kzielon1@CDV-A30904 MINGW64 ~/Project/Flp_bird_unity (main)
+$ git push
